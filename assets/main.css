@@ -1,0 +1,14 @@
+body{
+	background: purple;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+}
+
+h1{
+	font-size: 9rem;
+	font-weight: 900;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
